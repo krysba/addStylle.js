@@ -2,7 +2,7 @@
 /* 
 Plugin Name: Worcar Teksty
 Plugin URI:
-Description: Testowy plugin do strony www wyświetlający teksty
+Description: Testowy plugin do strony www wyświetlający teksty powstały na podstawie kursu wordpress-pluginy
 Version: 0.5
 Author: Krzysztof Bańkowski - worcar
 Author URI:
