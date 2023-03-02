@@ -1,6 +1,6 @@
 <?php 
 /* 
-Plugin Name: Worcar addStyle
+Plugin Name: Wordpress - addStylle.js
 Plugin URI:
 Description: Testowy plugin do strony dodający style inline
 Version: 0.5

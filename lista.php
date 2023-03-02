@@ -2,9 +2,9 @@
 
 
 /* 
-Plugin Name: Worcar wypisz liste 
+Plugin Name: Plugin wypisz liste 
 Plugin URI:
-Description: Testowy plugin wypisujący listę
+Description: Testowy plugin wypisujący listę <li></li>
 Version: 0.5
 Author: Krzysztof Bańkowski - worcar
 Author URI:
